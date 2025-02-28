@@ -1,0 +1,3 @@
+[submodule "Rust_Calculator"]
+	path = Rust_Calculator
+	url = https://github.com/Moronic-Aim/Rust_Calculator.git
